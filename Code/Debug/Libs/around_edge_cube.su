@@ -1,0 +1,2 @@
+../Libs/around_edge_cube.c:6:6:AroundEdgeCube_Handle	24	static
+../Libs/around_edge_cube.c:39:6:AroundEdgeCube_Set_State	16	static

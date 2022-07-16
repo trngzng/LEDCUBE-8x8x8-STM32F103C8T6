@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=3V3 Pin=H3-1
+Added Pin To Net: NetName=5V Pin=H4-10
+Added Member To Class: ClassName=schematic_sn74hc595n Member=Component H5 Header 2P 2.54 Duc Cong

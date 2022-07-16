@@ -1,0 +1,111 @@
+Added Component: Designator=Q1(TRANSISTOR-TO220AV-BCE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TIP41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TIP41/ON%20Semiconductor/view-part/4725228/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2(TRANSISTOR-TO220AV-BCE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TIP41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TIP41/ON%20Semiconductor/view-part/4725228/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3(TRANSISTOR-TO220AV-BCE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TIP41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TIP41/ON%20Semiconductor/view-part/4725228/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q4(TRANSISTOR-TO220AV-BCE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TIP41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TIP41/ON%20Semiconductor/view-part/4725228/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q5(TRANSISTOR-TO220AV-BCE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TIP41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TIP41/ON%20Semiconductor/view-part/4725228/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q6(TRANSISTOR-TO220AV-BCE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TIP41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TIP41/ON%20Semiconductor/view-part/4725228/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q7(TRANSISTOR-TO220AV-BCE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TIP41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TIP41/ON%20Semiconductor/view-part/4725228/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q8(TRANSISTOR-TO220AV-BCE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TIP41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TIP41/ON%20Semiconductor/view-part/4725228/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_B Pin=Q1-B
+Added Pin To Net: NetName=GND Pin=Q1-C
+Added Pin To Net: NetName=NetP3_8 Pin=Q1-E
+Added Pin To Net: NetName=NetQ2_B Pin=Q2-B
+Added Pin To Net: NetName=GND Pin=Q2-C
+Added Pin To Net: NetName=NetP3_7 Pin=Q2-E
+Added Pin To Net: NetName=NetQ3_B Pin=Q3-B
+Added Pin To Net: NetName=GND Pin=Q3-C
+Added Pin To Net: NetName=NetP3_6 Pin=Q3-E
+Added Pin To Net: NetName=NetQ4_B Pin=Q4-B
+Added Pin To Net: NetName=GND Pin=Q4-C
+Added Pin To Net: NetName=NetP3_5 Pin=Q4-E
+Added Pin To Net: NetName=NetQ5_B Pin=Q5-B
+Added Pin To Net: NetName=GND Pin=Q5-C
+Added Pin To Net: NetName=NetP3_4 Pin=Q5-E
+Added Pin To Net: NetName=NetQ6_B Pin=Q6-B
+Added Pin To Net: NetName=GND Pin=Q6-C
+Added Pin To Net: NetName=NetP3_3 Pin=Q6-E
+Added Pin To Net: NetName=NetQ7_B Pin=Q7-B
+Added Pin To Net: NetName=GND Pin=Q7-C
+Added Pin To Net: NetName=NetP3_2 Pin=Q7-E
+Added Pin To Net: NetName=NetQ8_B Pin=Q8-B
+Added Pin To Net: NetName=GND Pin=Q8-C
+Added Pin To Net: NetName=NetP3_1 Pin=Q8-E
+Added Member To Class: ClassName=schematic_sn74hc595n Member=Component H1 
+Added Member To Class: ClassName=schematic_sn74hc595n Member=Component H2 
+Added Member To Class: ClassName=schematic_sn74hc595n Member=Component H3 Header 10P 2.54 Duc Thang
+Added Member To Class: ClassName=schematic_sn74hc595n Member=Component H4 Header 10P 2.54 Duc Thang
+Added Member To Class: ClassName=schematic_sn74hc595n Member=Component P10 Header 2
+Added Member To Class: ClassName=schematic_sn74hc595n Member=Component P11 Header 2
+Added Member To Class: ClassName=schematic_sn74hc595n Member=Component Q1 TIP41
+Added Member To Class: ClassName=schematic_sn74hc595n Member=Component Q2 TIP41
+Added Member To Class: ClassName=schematic_sn74hc595n Member=Component Q3 TIP41
+Added Member To Class: ClassName=schematic_sn74hc595n Member=Component Q4 TIP41
+Added Member To Class: ClassName=schematic_sn74hc595n Member=Component Q5 TIP41
+Added Member To Class: ClassName=schematic_sn74hc595n Member=Component Q6 TIP41
+Added Member To Class: ClassName=schematic_sn74hc595n Member=Component Q7 TIP41
+Added Member To Class: ClassName=schematic_sn74hc595n Member=Component Q8 TIP41
+Added Room: Name=schematic_sn74hc595n

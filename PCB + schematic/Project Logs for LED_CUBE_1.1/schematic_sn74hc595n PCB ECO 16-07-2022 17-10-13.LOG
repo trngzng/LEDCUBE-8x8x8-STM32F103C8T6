@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=PA9/TX1 Pin=H1-6
+Removed Pin From Net: NetName=PA10/RX1 Pin=H1-7
+Removed Pin From Net: NetName=PA6 Pin=H2-1
+Removed Pin From Net: NetName=PA7 Pin=H2-2
+Removed Pin From Net: NetName=GND Pin=H2-9
+Removed Pin From Net: NetName=GND Pin=H2-10
+Removed Pin From Net: NetName=GND Pin=H3-2
+Removed Pin From Net: NetName=PA3/RX2 Pin=H3-3
+Removed Pin From Net: NetName=PA2/TX2 Pin=H3-4
+Removed Pin From Net: NetName=5V Pin=H4-10
+Removed Pin From Net: NetName=5V Pin=H6-8
+Removed Pin From Net: NetName=GND Pin=H6-9
+Removed Pin From Net: NetName=PA1/BUTTON Pin=H7-6
+Removed Pin From Net: NetName=PA2/TX2 Pin=H7-7
+Removed Pin From Net: NetName=PA3/RX2 Pin=H7-8
+Removed Pin From Net: NetName=PA5 Pin=H7-10
+Removed Member From Class: ClassName=schematic_sn74hc595n Member=H6
+Removed Member From Class: ClassName=schematic_sn74hc595n Member=H7
+Removed Member From Class: ClassName=schematic_sn74hc595n Member=H8
+Removed Member From Class: ClassName=schematic_sn74hc595n Member=H9
+Removed Member From Class: ClassName=schematic_sn74hc595n Member=H10
+Removed Member From Class: ClassName=schematic_sn74hc595n Member=H11
+Removed Member From Class: ClassName=schematic_sn74hc595n Member=H12
+Removed Member From Class: ClassName=schematic_sn74hc595n Member=H13
+Change Component Designator: OldDesignator=H5 NewDesignator=H1
+Change Component Designator: OldDesignator=H10 NewDesignator=H2
+Change Component Designator: OldDesignator=H11 NewDesignator=H3
+Change Component Designator: OldDesignator=H12 NewDesignator=H4
+Change Component Designator: OldDesignator=H13 NewDesignator=H5
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Change Component Designator: OldDesignator=U6 NewDesignator=U7
+Change Component Designator: OldDesignator=U7 NewDesignator=U8
+Change Component Designator: OldDesignator=U8 NewDesignator=U10
+Change Component Designator: OldDesignator=U9 NewDesignator=U11
+Added Component: Designator=U4(bluepill)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U9(ESP8266)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PA9/TX1 Pin=U4-6
+Added Pin To Net: NetName=PA10/RX1 Pin=U4-7
+Added Pin To Net: NetName=5V Pin=U4-18
+Added Pin To Net: NetName=GND Pin=U4-19
+Added Pin To Net: NetName=PA1/BUTTON Pin=U4-26
+Added Pin To Net: NetName=PA2/TX2 Pin=U4-27
+Added Pin To Net: NetName=PA3/RX2 Pin=U4-28
+Added Pin To Net: NetName=PA5 Pin=U4-30
+Added Pin To Net: NetName=PA6 Pin=U4-31
+Added Pin To Net: NetName=PA7 Pin=U4-32
+Added Pin To Net: NetName=GND Pin=U4-39
+Added Pin To Net: NetName=GND Pin=U4-40
+Added Pin To Net: NetName=PA3/RX2 Pin=U9-3
+Added Pin To Net: NetName=PA2/TX2 Pin=U9-4
+Added Pin To Net: NetName=GND Pin=U9-29
+Added Pin To Net: NetName=5V Pin=U9-30
+Change Net Name : Old Net Name=NetU4_14 New Net Name=NetU5_14
+Change Net Name : Old Net Name=NetU5_9 New Net Name=NetU6_9
+Change Net Name : Old Net Name=NetU6_14 New Net Name=NetU7_14
+Change Net Name : Old Net Name=NetU7_9 New Net Name=NetU8_9
+Change Net Name : Old Net Name=NetU8_14 New Net Name=NetU10_14
+Added Member To Class: ClassName=schematic_sn74hc595n Member=Component U4 Bluepill
+Added Member To Class: ClassName=schematic_sn74hc595n Member=Component U10 SN74HC595N
+Added Member To Class: ClassName=schematic_sn74hc595n Member=Component U11 SN74HC595N

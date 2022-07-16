@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=5V Pin=JDC1-1
+Removed Pin From Net: NetName=GND Pin=JDC1-2
+Change Component Designator: OldDesignator=H5 NewDesignator=H6
+Change Component Designator: OldDesignator=H6 NewDesignator=H7
+Change Component Designator: OldDesignator=H7 NewDesignator=H8
+Change Component Designator: OldDesignator=H8 NewDesignator=H9
+Change Component Designator: OldDesignator=H9 NewDesignator=H10
+Change Component Designator: OldDesignator=H10 NewDesignator=H11
+Change Component Designator: OldDesignator=H11 NewDesignator=H12
+Change Component Designator: OldDesignator=H12 NewDesignator=H13
+Added Component: Designator=H5(Header 2P DC 2.54)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002852"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 2P XH2.54-2P Ð?c Cong"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=H5-1
+Added Pin To Net: NetName=5V Pin=H5-2
+Added Member To Class: ClassName=schematic_sn74hc595n Member=Component H5 Header 2P 2.54 Duc Cong
+Added Member To Class: ClassName=schematic_sn74hc595n Member=Component H13 Hole
+Added Room: Name=schematic_sn74hc595n
