@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=LOGO1 Old Footprint=PIF LOGO BIG SSTOP New Footprint=PIF LOGO BIG TOP
+Change Component Description : Designator=H1 Old Description=C?m New Description=C?m
+Change component parameters: Designator = "H1"; Footprint = "Header 2P DC 2.54"; UniqueID = "\OCKDWEVB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH002852"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 2P XH2.54-2P Ð?c Cong"; VariantName = "[No Variations]"
+Added Room: Name=schematic_sn74hc595n
