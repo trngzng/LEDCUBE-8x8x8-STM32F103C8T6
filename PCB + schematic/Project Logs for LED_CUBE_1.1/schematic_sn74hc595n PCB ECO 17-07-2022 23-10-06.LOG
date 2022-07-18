@@ -1,0 +1,35 @@
+Change Component Footprint: Designator=U1 Old Footprint=N016 New Footprint=SN74HC595N
+Change Component Footprint: Designator=U2 Old Footprint=N016 New Footprint=SN74HC595N
+Change Component Footprint: Designator=U3 Old Footprint=N016 New Footprint=SN74HC595N
+Change Component Footprint: Designator=U5 Old Footprint=N016 New Footprint=SN74HC595N
+Change Component Footprint: Designator=U6 Old Footprint=N016 New Footprint=SN74HC595N
+Change Component Footprint: Designator=U7 Old Footprint=N016 New Footprint=SN74HC595N
+Change Component Footprint: Designator=U8 Old Footprint=N016 New Footprint=SN74HC595N
+Change Component Footprint: Designator=U10 Old Footprint=N016 New Footprint=SN74HC595N
+Change Component Footprint: Designator=U11 Old Footprint=N016 New Footprint=SN74HC595N
+Change component parameters: Designator = "H1"; Footprint = "Header 2P DC 2.54"; UniqueID = "\OCKDWEVB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH002852"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 2P XH2.54-2P Ð?c Cong"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1"; Footprint = "SN74HC595N"; UniqueID = "\JRTYBWIG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "U2"; Footprint = "SN74HC595N"; UniqueID = "\JHOBRLLD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "U3"; Footprint = "SN74HC595N"; UniqueID = "\PABVRPJP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "U5"; Footprint = "SN74HC595N"; UniqueID = "\LRAOSFAY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "U6"; Footprint = "SN74HC595N"; UniqueID = "\AQDYSGDT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "U7"; Footprint = "SN74HC595N"; UniqueID = "\CPFPPVCS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "U8"; Footprint = "SN74HC595N"; UniqueID = "\MOLSGREN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "U10"; Footprint = "SN74HC595N"; UniqueID = "\CIBBRSYG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "U11"; Footprint = "SN74HC595N"; UniqueID = "\PUGEPQMM"
+Change component parameters. Clean all parameters for all variants
