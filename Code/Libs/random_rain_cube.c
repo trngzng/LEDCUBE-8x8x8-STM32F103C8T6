@@ -28,7 +28,7 @@ void RandomRainCube_Handle(uint8_t rain_times)
 			y = rand() % 8;
 		}
 
-		DisplayLed(x, y, z,  0);
+		DisplayLed(x, y, z);
 	}
 
 }

@@ -1,6 +1,7 @@
 #include "led_cube_handle.h"
 
-Cube_Status currentEffect = SPIRAL_CUBE;
+Cube_Status currentEffect = WAVE_EFFECT;
+
 
 void Btn_press_Callback(GPIO_TypeDef* GPIOx, uint16_t GPIO_Pin)
 {
@@ -30,8 +31,10 @@ void Btn_press_Callback(GPIO_TypeDef* GPIOx, uint16_t GPIO_Pin)
 		SpiralCube_Set_State();
 		break;
 	case SPIRAL_CUBE:
-		currentEffect = TURN_OFF_ALL_LEDS;
+		WaveCube_Set_State();
 		break;
+	case WAVE_EFFECT:
+		currentEffect = TURN_OFF_ALL_LEDS;
 		break;
 	default:
 		break;
@@ -67,6 +70,9 @@ void Led_cube_Handle(Cube_Status cube_state)
 			break;
 		case SPIRAL_CUBE:
 			SpiralCube_Handle();
+			break;
+		case WAVE_EFFECT:
+			WaveCube_Handle();
 			break;
 		default:
 			break;

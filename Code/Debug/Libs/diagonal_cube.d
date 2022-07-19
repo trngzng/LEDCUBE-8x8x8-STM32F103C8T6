@@ -18,13 +18,15 @@ Libs/diagonal_cube.o: ../Libs/diagonal_cube.c ../Libs/diagonal_cube.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h \
+ ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h \
+ ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h \
- ../Libs/transmit_data.h ../Libs/led_cube_handle.h ../Libs/spiral_cube.h \
- ../Libs/display_led.h ../Libs/random_rain_cube.h \
+ ../Libs/transmit_data.h ../Libs/led_cube_handle.h ../Libs/wave.h \
+ ../Libs/spiral_cube.h ../Libs/display_led.h ../Libs/random_rain_cube.h \
  ../Libs/count_down_cube.h ../Libs/around_edge_cube.h \
  ../Libs/grow_shrink_cube.h ../Libs/plane_cube.h ../Libs/light_cube.h \
  ../Libs/clear_cube.h ../Libs/button.h
@@ -49,6 +51,8 @@ Libs/diagonal_cube.o: ../Libs/diagonal_cube.c ../Libs/diagonal_cube.h \
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h:
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h:
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h:
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h:
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h:
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h:
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h:
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h:
@@ -56,6 +60,7 @@ Libs/diagonal_cube.o: ../Libs/diagonal_cube.c ../Libs/diagonal_cube.h \
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h:
 ../Libs/transmit_data.h:
 ../Libs/led_cube_handle.h:
+../Libs/wave.h:
 ../Libs/spiral_cube.h:
 ../Libs/display_led.h:
 ../Libs/random_rain_cube.h:

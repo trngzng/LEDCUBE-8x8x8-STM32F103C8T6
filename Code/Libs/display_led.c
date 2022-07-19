@@ -11,7 +11,7 @@ uint8_t WhichByte, WhichBit, WhichColumn;
 uint8_t dataOut[9];
 extern SPI_HandleTypeDef hspi1;
 
-void DisplayLed(uint8_t x, uint8_t y, uint8_t  z, uint8_t display)
+void DisplayLed(uint8_t x, uint8_t y, uint8_t  z)
 {
 	WhichByte = (((z << 6)+(y << 3) + x) >> 3);
 	WhichBit = ((z << 6) + (y << 3) + x) - (WhichByte << 3);
@@ -27,10 +27,7 @@ void DisplayLed(uint8_t x, uint8_t y, uint8_t  z, uint8_t display)
 	HAL_GPIO_WritePin(LATCH_PIN_GPIO_Port, LATCH_PIN_Pin, GPIO_PIN_RESET);
 	HAL_SPI_Transmit(&hspi1,dataOut, 9, 100);
 	HAL_GPIO_WritePin(LATCH_PIN_GPIO_Port, LATCH_PIN_Pin, GPIO_PIN_SET);
-	if (!display)
-	{
-		IClayer = 0;
-		ICcolumn[WhichColumn] = 0;
-	}
+	IClayer = 0;
+	ICcolumn[WhichColumn] = 0;
 }
 

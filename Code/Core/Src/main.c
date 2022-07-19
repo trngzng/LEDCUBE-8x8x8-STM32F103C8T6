@@ -21,7 +21,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "led_cube_handle.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -47,7 +47,7 @@ UART_HandleTypeDef huart1;
 UART_HandleTypeDef huart2;
 
 /* USER CODE BEGIN PV */
-int count = 0;
+Btn_Typedef button1;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -82,7 +82,7 @@ int main(void)
   HAL_Init();
 
   /* USER CODE BEGIN Init */
-
+  Btn_Init(&button1, GPIOA, GPIO_PIN_1);
   /* USER CODE END Init */
 
   /* Configure the system clock */
@@ -109,8 +109,8 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-	  count++;
-	  HAL_Delay(500);
+	  Btn_Handle(&button1);
+	  Led_cube_Handle(currentEffect);
 
   }
   /* USER CODE END 3 */
@@ -343,7 +343,7 @@ static void MX_GPIO_Init(void)
   /*Configure GPIO pin : BUTTON_PIN_Pin */
   GPIO_InitStruct.Pin = BUTTON_PIN_Pin;
   GPIO_InitStruct.Mode = GPIO_MODE_INPUT;
-  GPIO_InitStruct.Pull = GPIO_NOPULL;
+  GPIO_InitStruct.Pull = GPIO_PULLUP;
   HAL_GPIO_Init(BUTTON_PIN_GPIO_Port, &GPIO_InitStruct);
 
   /*Configure GPIO pin : LATCH_PIN_Pin */

@@ -67,7 +67,7 @@ void RollBiggestCounterClockWise_Handle()
 		case Y_AXIS_1:
 			if (HAL_GetTick() - timeStart  >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (y == 7) axisDirection = X_AXIS_1;
 				else y++;
 				timeStart = HAL_GetTick();
@@ -77,7 +77,7 @@ void RollBiggestCounterClockWise_Handle()
 		case X_AXIS_1:
 			if (HAL_GetTick() - timeStart  >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (x == 7) axisDirection = Y_AXIS_2;
 				else x++;
 				timeStart = HAL_GetTick();
@@ -87,7 +87,7 @@ void RollBiggestCounterClockWise_Handle()
 		case Y_AXIS_2:
 			if (HAL_GetTick() - timeStart  >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (y == 0) axisDirection = X_AXIS_2;
 				else y--;
 				timeStart = HAL_GetTick();
@@ -97,7 +97,7 @@ void RollBiggestCounterClockWise_Handle()
 		case X_AXIS_2:
 			if (HAL_GetTick() - timeStart  >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (x == 1)
 				{
 					axisDirection = Y_AXIS_1;
@@ -119,7 +119,7 @@ void RollBiggerCounterClockWise_Handle()
 		case Y_AXIS_1:
 			if (HAL_GetTick() - timeStart  >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (y  == 6) axisDirection = X_AXIS_1;
 				else y++;
 				timeStart = HAL_GetTick();
@@ -129,7 +129,7 @@ void RollBiggerCounterClockWise_Handle()
 		case X_AXIS_1:
 			if (HAL_GetTick() - timeStart  >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (x  == 6) axisDirection = Y_AXIS_2;
 				else x++;
 				timeStart = HAL_GetTick();
@@ -139,7 +139,7 @@ void RollBiggerCounterClockWise_Handle()
 		case Y_AXIS_2:
 			if (HAL_GetTick() - timeStart  >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (y  == 1) axisDirection = X_AXIS_2;
 				else y--;
 				timeStart = HAL_GetTick();
@@ -149,7 +149,7 @@ void RollBiggerCounterClockWise_Handle()
 		case X_AXIS_2:
 			if (HAL_GetTick() - timeStart  >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (x  == 2)
 				{
 					axisDirection = Y_AXIS_1;
@@ -170,7 +170,7 @@ void RollMediumCounterClockWise_Handle()
 		case Y_AXIS_1:
 			if (HAL_GetTick() - timeStart  >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (y == 5) axisDirection = X_AXIS_1;
 				else y++;
 				timeStart = HAL_GetTick();
@@ -180,7 +180,7 @@ void RollMediumCounterClockWise_Handle()
 		case X_AXIS_1:
 			if (HAL_GetTick() - timeStart  >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (x  == 5) axisDirection = Y_AXIS_2;
 				else x++;
 				timeStart = HAL_GetTick();
@@ -190,7 +190,7 @@ void RollMediumCounterClockWise_Handle()
 		case Y_AXIS_2:
 			if (HAL_GetTick() - timeStart  >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (y == 2) axisDirection = X_AXIS_2;
 				else y--;
 				timeStart = HAL_GetTick();
@@ -200,7 +200,7 @@ void RollMediumCounterClockWise_Handle()
 		case X_AXIS_2:
 			if (HAL_GetTick() - timeStart  >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (x  == 3)
 				{
 					axisDirection = Y_AXIS_1;
@@ -222,7 +222,7 @@ void RollSmallCounterClockWise_Handle()
 		case Y_AXIS_1:
 			if (HAL_GetTick() - timeStart  >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (y == 4) axisDirection = X_AXIS_1;
 				else y++ ;
 				timeStart = HAL_GetTick();
@@ -232,7 +232,7 @@ void RollSmallCounterClockWise_Handle()
 		case X_AXIS_1:
 			if (HAL_GetTick() - timeStart  >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (x  == 4) axisDirection = Y_AXIS_2;
 				else x++;
 				timeStart = HAL_GetTick();
@@ -242,7 +242,7 @@ void RollSmallCounterClockWise_Handle()
 		case Y_AXIS_2:
 			if (HAL_GetTick() - timeStart  >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (y == 3)
 				{
 					directRotate = CLOCKWISE;
@@ -267,7 +267,7 @@ void RollBiggestClockWise_Handle()
 		case Y_AXIS_1:
 			if (HAL_GetTick() - timeStart >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (y == 7) axisDirection = X_AXIS_1;
 				else y++;
 				timeStart = HAL_GetTick();
@@ -277,7 +277,7 @@ void RollBiggestClockWise_Handle()
 		case X_AXIS_1:
 			if (HAL_GetTick() - timeStart >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (x == 0) axisDirection = Y_AXIS_2;
 				else x--;
 				timeStart = HAL_GetTick();
@@ -287,7 +287,7 @@ void RollBiggestClockWise_Handle()
 		case Y_AXIS_2:
 			if (HAL_GetTick() - timeStart >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (y == 0) axisDirection = X_AXIS_2;
 				else y--;
 				timeStart = HAL_GetTick();
@@ -297,7 +297,7 @@ void RollBiggestClockWise_Handle()
 		case X_AXIS_2:
 			if (HAL_GetTick() - timeStart >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (x == 6)
 				{
 					rollSize = ROLL_BIGGER;
@@ -318,7 +318,7 @@ void RollBiggerClockWise_Handle()
 		case Y_AXIS_1:
 			if (HAL_GetTick() - timeStart >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (y == 6) axisDirection = X_AXIS_1;
 				else y++;
 				timeStart = HAL_GetTick();
@@ -328,7 +328,7 @@ void RollBiggerClockWise_Handle()
 		case X_AXIS_1:
 			if (HAL_GetTick() - timeStart >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (x == 1) axisDirection = Y_AXIS_2;
 				else x--;
 				timeStart = HAL_GetTick();
@@ -338,7 +338,7 @@ void RollBiggerClockWise_Handle()
 		case Y_AXIS_2:
 			if (HAL_GetTick() - timeStart >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (y == 1) axisDirection = X_AXIS_2;
 				else y--;
 				timeStart = HAL_GetTick();
@@ -348,7 +348,7 @@ void RollBiggerClockWise_Handle()
 		case X_AXIS_2:
 			if (HAL_GetTick() - timeStart >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (x == 5)
 				{
 					axisDirection = Y_AXIS_1;
@@ -369,7 +369,7 @@ void RollMediumClockWise_Handle()
 		case Y_AXIS_1:
 			if (HAL_GetTick() - timeStart >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (y == 5) axisDirection = X_AXIS_1;
 				else y++;
 				timeStart = HAL_GetTick();
@@ -379,7 +379,7 @@ void RollMediumClockWise_Handle()
 		case X_AXIS_1:
 			if (HAL_GetTick() - timeStart >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (x == 2) axisDirection = Y_AXIS_2;
 				else x--;
 				timeStart = HAL_GetTick();
@@ -389,7 +389,7 @@ void RollMediumClockWise_Handle()
 		case Y_AXIS_2:
 			if (HAL_GetTick() - timeStart >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (y == 2) axisDirection = X_AXIS_2;
 				else y--;
 				timeStart = HAL_GetTick();
@@ -399,7 +399,7 @@ void RollMediumClockWise_Handle()
 		case X_AXIS_2:
 			if (HAL_GetTick() - timeStart >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (x == 4)
 				{
 					rollSize = ROLL_SMALL;
@@ -420,7 +420,7 @@ void RollSmallClockWise_Handle()
 		case Y_AXIS_1:
 			if (HAL_GetTick() - timeStart >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (y == 4) axisDirection = X_AXIS_1;
 				else y++;
 				timeStart = HAL_GetTick();
@@ -430,7 +430,7 @@ void RollSmallClockWise_Handle()
 		case X_AXIS_1:
 			if (HAL_GetTick() - timeStart >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (x == 3) axisDirection = Y_AXIS_2;
 				else x--;
 				timeStart = HAL_GetTick();
@@ -440,7 +440,7 @@ void RollSmallClockWise_Handle()
 		case Y_AXIS_2:
 			if (HAL_GetTick() - timeStart >= timePerColumn)
 			{
-				DisplayLed(x, y, z, 0);
+				DisplayLed(x, y, z);
 				if (y == 3)
 				{
 					clearCube();

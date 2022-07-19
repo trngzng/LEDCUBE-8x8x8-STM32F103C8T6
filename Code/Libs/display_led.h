@@ -10,6 +10,6 @@
 
 #include "main.h"
 
-void DisplayLed(uint8_t x, uint8_t y, uint8_t  z, uint8_t display);
+void DisplayLed(uint8_t x, uint8_t y, uint8_t  z);
 
 #endif /* DISPLAY_LED_H_ */
