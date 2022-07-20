@@ -10,11 +10,8 @@ uint32_t time_rain = 0;
 
 void RandomRainCube_Handle(uint8_t rain_times)
 {
-	srand(HAL_GetTick());
 	if (HAL_GetTick() - time_rain >= 50)
 	{
-
-
 			if (z == 0) z = 7;
 			else z--;
 			time_rain = HAL_GetTick();
@@ -35,6 +32,7 @@ void RandomRainCube_Handle(uint8_t rain_times)
 
 void RandomRainCube_Set_State()
 {
+	srand(HAL_GetTick());
 	z = 7;
 	currentEffect = RANDOM_RAIN_CUBE;
 }

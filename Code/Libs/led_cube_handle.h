@@ -1,6 +1,7 @@
 #ifndef _LED_HANDLE_H_
 #define _LED_HANDLE_H_
 
+#include "sidewaves.h"
 #include "wave.h"
 #include "spiral_cube.h"
 #include "random_rain_cube.h"
@@ -16,6 +17,7 @@
 #include "stdlib.h"
 #include "main.h"
 #include "math.h"
+#include "stdbool.h"
 
 typedef enum
 {
@@ -29,6 +31,8 @@ typedef enum
 	RANDOM_RAIN_CUBE,
 	SPIRAL_CUBE,
 	WAVE_EFFECT,
+	SIDE_WAVES_EFFECT,
+	FIREWORKS_EFFECT,
 	TOTAL_EFFECTS,
 } Cube_Status;
 

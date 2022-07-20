@@ -34,6 +34,9 @@ void Btn_press_Callback(GPIO_TypeDef* GPIOx, uint16_t GPIO_Pin)
 		WaveCube_Set_State();
 		break;
 	case WAVE_EFFECT:
+		SidewavesEffect_Set_State();
+		break;
+	case SIDE_WAVES_EFFECT:
 		currentEffect = TURN_OFF_ALL_LEDS;
 		break;
 	default:
@@ -73,6 +76,9 @@ void Led_cube_Handle(Cube_Status cube_state)
 			break;
 		case WAVE_EFFECT:
 			WaveCube_Handle();
+			break;
+		case SIDE_WAVES_EFFECT:
+			SidewavesEffect_Handle();
 			break;
 		default:
 			break;

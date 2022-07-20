@@ -26,8 +26,9 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h \
  D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/led_cube_handle.h \
- D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/wave.h \
+ D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/sidewaves.h \
  D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/led_cube_handle.h \
+ D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/wave.h \
  D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/spiral_cube.h \
  D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/display_led.h \
  D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/random_rain_cube.h \
@@ -68,8 +69,9 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h:
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h:
 D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/led_cube_handle.h:
-D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/wave.h:
+D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/sidewaves.h:
 D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/led_cube_handle.h:
+D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/wave.h:
 D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/spiral_cube.h:
 D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/display_led.h:
 D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/random_rain_cube.h:

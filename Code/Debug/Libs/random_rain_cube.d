@@ -1,7 +1,7 @@
 Libs/random_rain_cube.o: ../Libs/random_rain_cube.c \
- ../Libs/random_rain_cube.h ../Libs/led_cube_handle.h ../Libs/wave.h \
- ../Libs/spiral_cube.h ../Libs/display_led.h ../Core/Inc/main.h \
- ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h \
+ ../Libs/random_rain_cube.h ../Libs/led_cube_handle.h ../Libs/sidewaves.h \
+ ../Libs/wave.h ../Libs/spiral_cube.h ../Libs/display_led.h \
+ ../Core/Inc/main.h ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h \
  ../Core/Inc/stm32f1xx_hal_conf.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h \
@@ -33,6 +33,7 @@ Libs/random_rain_cube.o: ../Libs/random_rain_cube.c \
  ../Libs/clear_cube.h ../Libs/button.h
 ../Libs/random_rain_cube.h:
 ../Libs/led_cube_handle.h:
+../Libs/sidewaves.h:
 ../Libs/wave.h:
 ../Libs/spiral_cube.h:
 ../Libs/display_led.h:

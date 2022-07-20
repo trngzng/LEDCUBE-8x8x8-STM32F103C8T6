@@ -1,0 +1,4 @@
+../Libs/fireworks.c:20:6:FireworksEffect_Handle	48	static
+../Libs/fireworks.c:57:6:RandomO	8	static
+../Libs/fireworks.c:65:6:RandomParticle	32	static
+../Libs/fireworks.c:80:6:FireworksEffect_Set_State	8	static
