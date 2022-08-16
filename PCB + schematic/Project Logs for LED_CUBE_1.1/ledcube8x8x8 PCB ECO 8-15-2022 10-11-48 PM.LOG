@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=ledcube8x8x8 Member=D4
+Removed Member From Class: ClassName=esp8266 Member=P10
+Removed Member From Class: ClassName=ledcube8x8x8 Member=P11
+Added Member To Class: ClassName=ledcube8x8x8 Member=Component P9 Header 8
+Added Member To Class: ClassName=esp8266 Member=Component P11 Header 4
+Added Member To Class: ClassName=ledcube8x8x8 Member=Component U10 Bluepill

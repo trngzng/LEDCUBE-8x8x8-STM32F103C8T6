@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAP ALU SIZE B New Footprint=CP1/2
+Change Component Footprint: Designator=C2 Old Footprint=CAP ALU SIZE B New Footprint=CP1/2
+Change Component Comment : Designator=C1 Old Comment=Cap Pol SMD New Comment=Cap Pol
+Change Component Comment : Designator=C2 Old Comment=Cap Pol SMD New Comment=Cap Pol
+Added Class: Name=ledcube8x8x8

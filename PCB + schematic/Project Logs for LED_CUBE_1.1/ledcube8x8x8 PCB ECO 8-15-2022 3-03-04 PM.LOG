@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=P1 Old Footprint=JP8H New Footprint=JP8
+Change Component Footprint: Designator=P2 Old Footprint=JP8H New Footprint=JP8
+Change Component Footprint: Designator=P3 Old Footprint=JP8H New Footprint=JP8
+Change Component Footprint: Designator=P4 Old Footprint=JP8H New Footprint=JP8
+Change Component Footprint: Designator=P5 Old Footprint=JP8H New Footprint=JP8
+Change Component Footprint: Designator=P6 Old Footprint=JP8H New Footprint=JP8
+Change Component Footprint: Designator=P7 Old Footprint=JP8H New Footprint=JP8
+Change Component Footprint: Designator=P8 Old Footprint=JP8H New Footprint=JP8
+Change Component Footprint: Designator=P9 Old Footprint=JP8H New Footprint=JP8
+Change Component Comment : Designator=P1 Old Comment=Header 8H New Comment=Header 8
+Change Component Comment : Designator=P2 Old Comment=Header 8H New Comment=Header 8
+Change Component Comment : Designator=P3 Old Comment=Header 8H New Comment=Header 8
+Change Component Comment : Designator=P4 Old Comment=Header 8H New Comment=Header 8
+Change Component Comment : Designator=P5 Old Comment=Header 8H New Comment=Header 8
+Change Component Comment : Designator=P6 Old Comment=Header 8H New Comment=Header 8
+Change Component Comment : Designator=P7 Old Comment=Header 8H New Comment=Header 8
+Change Component Comment : Designator=P8 Old Comment=Header 8H New Comment=Header 8
+Change Component Comment : Designator=P9 Old Comment=Header 8H New Comment=Header 8
+Added Member To Class: ClassName=ledcube8x8x8 Member=Component P1 Header 8
