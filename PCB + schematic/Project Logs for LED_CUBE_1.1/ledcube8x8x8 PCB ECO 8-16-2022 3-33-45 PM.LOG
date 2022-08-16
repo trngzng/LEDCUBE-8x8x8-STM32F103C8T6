@@ -1,0 +1,180 @@
+Removed Pin From Net: NetName=GND Pin=Q1-1
+Removed Pin From Net: NetName=NetP9_8 Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q2-1
+Removed Pin From Net: NetName=NetP9_1 Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=Q3-1
+Removed Pin From Net: NetName=NetP9_7 Pin=Q3-2
+Removed Pin From Net: NetName=GND Pin=Q4-1
+Removed Pin From Net: NetName=NetP9_2 Pin=Q4-2
+Removed Pin From Net: NetName=GND Pin=Q5-1
+Removed Pin From Net: NetName=NetP9_6 Pin=Q5-2
+Removed Pin From Net: NetName=GND Pin=Q6-1
+Removed Pin From Net: NetName=NetP9_3 Pin=Q6-2
+Removed Pin From Net: NetName=GND Pin=Q7-1
+Removed Pin From Net: NetName=NetP9_5 Pin=Q7-2
+Removed Pin From Net: NetName=GND Pin=Q8-1
+Removed Pin From Net: NetName=NetP9_4 Pin=Q8-2
+Removed Pin From Net: NetName=TXD0 Pin=S1-1
+Removed Pin From Net: NetName=RXD0 Pin=S1-2
+Removed Pin From Net: NetName=UART1_TX Pin=S1-3
+Removed Pin From Net: NetName=UART1_RX Pin=S1-4
+Removed Pin From Net: NetName=GPIO0 Pin=S3-1
+Removed Pin From Net: NetName=GPIO2 Pin=S3-2
+Removed Pin From Net: NetName=GPIO15 Pin=S3-3
+Removed Pin From Net: NetName=GND Pin=S3-4
+Removed Pin From Net: NetName=GND Pin=S3-5
+Removed Pin From Net: NetName=GND Pin=S3-6
+Removed Member From Class: ClassName=esp8266 Member=S3
+Change Component Footprint: Designator=Q1 Old Footprint=TIP41C New Footprint=TRANS_MMSS8050-H-TP
+Change Component Footprint: Designator=Q2 Old Footprint=TIP41C New Footprint=TRANS_MMSS8050-H-TP
+Change Component Footprint: Designator=Q3 Old Footprint=TIP41C New Footprint=TRANS_MMSS8050-H-TP
+Change Component Footprint: Designator=Q4 Old Footprint=TIP41C New Footprint=TRANS_MMSS8050-H-TP
+Change Component Footprint: Designator=Q5 Old Footprint=TIP41C New Footprint=TRANS_MMSS8050-H-TP
+Change Component Footprint: Designator=Q6 Old Footprint=TIP41C New Footprint=TRANS_MMSS8050-H-TP
+Change Component Footprint: Designator=Q7 Old Footprint=TIP41C New Footprint=TRANS_MMSS8050-H-TP
+Change Component Footprint: Designator=Q8 Old Footprint=TIP41C New Footprint=TRANS_MMSS8050-H-TP
+Change Component Comment : Designator=Q1 Old Comment=TIP41C New Comment=MMSS8050-H-TP
+Change Component Comment : Designator=Q2 Old Comment=TIP41C New Comment=MMSS8050-H-TP
+Change Component Comment : Designator=Q3 Old Comment=TIP41C New Comment=MMSS8050-H-TP
+Change Component Comment : Designator=Q4 Old Comment=TIP41C New Comment=MMSS8050-H-TP
+Change Component Comment : Designator=Q5 Old Comment=TIP41C New Comment=MMSS8050-H-TP
+Change Component Comment : Designator=Q6 Old Comment=TIP41C New Comment=MMSS8050-H-TP
+Change Component Comment : Designator=Q7 Old Comment=TIP41C New Comment=MMSS8050-H-TP
+Change Component Comment : Designator=Q8 Old Comment=TIP41C New Comment=MMSS8050-H-TP
+Change Component Designator: OldDesignator=S2 NewDesignator=S1
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "TIP41C"; UniqueID = "\NLSWXGMF" ("\NLSWXGMF")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MMSS8050-H-TP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-23 Micro Commercial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMSS8050-H-TP/Micro%20Commercial/view-part/423878/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "TIP41C"; UniqueID = "\UHGACPBM" ("\UHGACPBM")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MMSS8050-H-TP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-23 Micro Commercial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMSS8050-H-TP/Micro%20Commercial/view-part/423878/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q3" ("Q3"); Footprint = "TIP41C"; UniqueID = "\AEWCEUMT" ("\AEWCEUMT")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MMSS8050-H-TP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-23 Micro Commercial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMSS8050-H-TP/Micro%20Commercial/view-part/423878/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q4" ("Q4"); Footprint = "TIP41C"; UniqueID = "\ZRVHASXW" ("\ZRVHASXW")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MMSS8050-H-TP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-23 Micro Commercial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMSS8050-H-TP/Micro%20Commercial/view-part/423878/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5" ("Q5"); Footprint = "TIP41C"; UniqueID = "\IMGMEONT" ("\IMGMEONT")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MMSS8050-H-TP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-23 Micro Commercial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMSS8050-H-TP/Micro%20Commercial/view-part/423878/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q6" ("Q6"); Footprint = "TIP41C"; UniqueID = "\IJXLTJVN" ("\IJXLTJVN")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MMSS8050-H-TP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-23 Micro Commercial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMSS8050-H-TP/Micro%20Commercial/view-part/423878/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q7" ("Q7"); Footprint = "TIP41C"; UniqueID = "\HUEBGZPE" ("\HUEBGZPE")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MMSS8050-H-TP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-23 Micro Commercial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMSS8050-H-TP/Micro%20Commercial/view-part/423878/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q8" ("Q8"); Footprint = "TIP41C"; UniqueID = "\KAMONZPG" ("\KAMONZPG")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MMSS8050-H-TP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-23 Micro Commercial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMSS8050-H-TP/Micro%20Commercial/view-part/423878/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S2(418117170905)
+Add component (AddParameter): Name = "Actuator Type"; Value = "Flat Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.com/em/datasheet/418117170905.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operation Force"; Value = "800g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "418117170905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pole Number"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "September 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current Non-Switching"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current Switching"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage Non-Switching"; Value = "50VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage Switching"; Value = "24VDC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetP9_8 Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetP9_1 Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=NetP9_7 Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=NetP9_2 Pin=Q4-3
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=NetP9_6 Pin=Q5-3
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=NetP9_3 Pin=Q6-3
+Added Pin To Net: NetName=GND Pin=Q7-2
+Added Pin To Net: NetName=NetP9_5 Pin=Q7-3
+Added Pin To Net: NetName=GND Pin=Q8-2
+Added Pin To Net: NetName=NetP9_4 Pin=Q8-3
+Added Pin To Net: NetName=GPIO0 Pin=S2-1
+Added Pin To Net: NetName=GPIO2 Pin=S2-2
+Added Pin To Net: NetName=GPIO15 Pin=S2-3
+Added Pin To Net: NetName=TXD0 Pin=S2-4
+Added Pin To Net: NetName=RXD0 Pin=S2-5
+Added Pin To Net: NetName=UART1_TX Pin=S2-6
+Added Pin To Net: NetName=UART1_RX Pin=S2-7
+Added Pin To Net: NetName=GND Pin=S2-8
+Added Pin To Net: NetName=GND Pin=S2-9
+Added Pin To Net: NetName=GND Pin=S2-10
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R65-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R66-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R67-2
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R68-2
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R69-2
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R70-2
+Added Net: Name=NetQ6_1
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_1 Pin=R71-2
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_1 Pin=R72-2
+Added Net: Name=NetQ8_1

@@ -1,0 +1,10 @@
+Added Component: Designator=D3(LED_0603_Blue)
+Added Component: Designator=R79(RES-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=VCC Pin=R79-1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R79-2
+Added Net: Name=NetD3_1
+Added Member To Class: ClassName=power_supply Member=Component D3 LED SMD
+Added Member To Class: ClassName=power_supply Member=Component R79 RESISTOR SMD

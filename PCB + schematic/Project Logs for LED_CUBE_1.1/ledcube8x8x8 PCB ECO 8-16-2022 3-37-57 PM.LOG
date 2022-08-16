@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=RESET Pin=R75-1
+Removed Pin From Net: NetName=3V3 Pin=R75-2
+Removed Pin From Net: NetName=3V3 Pin=S1-1
+Added Pin To Net: NetName=3V3 Pin=R75-1
+Added Pin To Net: NetName=RESET Pin=R75-2
+Added Pin To Net: NetName=RESET Pin=S1-1
+Added Member To Class: ClassName=esp8266 Member=Component S1 SW-PB
+Added Member To Class: ClassName=esp8266 Member=Component S2 418117170905

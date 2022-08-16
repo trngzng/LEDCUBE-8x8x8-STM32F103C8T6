@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=NetD2_2 Pin=U12-4
+Added Pin To Net: NetName=+5 Pin=U12-4
