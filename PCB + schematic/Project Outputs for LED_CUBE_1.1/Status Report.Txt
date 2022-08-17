@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:05:14 PM On 8/17/2022
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : PCB Document [ledcube8x8x8.PcbDoc]
+   Generated File[Pick Place for ledcube8x8x8.txt]
+   Generated File[Pick Place for ledcube8x8x8.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 5:05:17 PM On 8/17/2022

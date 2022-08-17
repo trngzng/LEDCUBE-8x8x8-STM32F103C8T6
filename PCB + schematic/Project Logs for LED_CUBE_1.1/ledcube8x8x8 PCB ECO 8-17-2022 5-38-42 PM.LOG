@@ -1,0 +1,15 @@
+Added Component: Designator=U12(DPAK6P170_1524X459L254X81N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM2576-5.0WU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-5 Micrel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM2576-5.0WU/Microchip/view-part/104848/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_1 Pin=U12-1
+Added Pin To Net: NetName=NetD2_2 Pin=U12-2
+Added Pin To Net: NetName=GND Pin=U12-3
+Added Pin To Net: NetName=+5 Pin=U12-4
+Added Pin To Net: NetName=GND Pin=U12-5
+Added Pin To Net: NetName=GND Pin=U12-6
+Added Member To Class: ClassName=power_supply Member=Component U12 LM2576-5.0WU

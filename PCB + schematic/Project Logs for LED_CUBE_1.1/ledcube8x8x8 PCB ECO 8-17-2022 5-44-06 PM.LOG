@@ -1,0 +1,17 @@
+Added Component: Designator=U11(XCVR_ESP8266-12E/ESP-12E)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP8266-12E/ESP-12E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET Pin=U11-1
+Added Pin To Net: NetName=NetR75_2 Pin=U11-3
+Added Pin To Net: NetName=3V3 Pin=U11-8
+Added Pin To Net: NetName=GND Pin=U11-15
+Added Pin To Net: NetName=GPIO15 Pin=U11-16
+Added Pin To Net: NetName=GPIO2 Pin=U11-17
+Added Pin To Net: NetName=GPIO0 Pin=U11-18
+Added Pin To Net: NetName=RXD0 Pin=U11-21
+Added Pin To Net: NetName=TXD0 Pin=U11-22
+Added Member To Class: ClassName=esp8266 Member=Component U11 ESP8266-12E/ESP-12E

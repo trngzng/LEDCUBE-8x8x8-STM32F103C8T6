@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=RESET Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Member From Class: ClassName=esp8266 Member=S2
+Change Component Designator: OldDesignator=S2 NewDesignator=S1
+Added Component: Designator=SW1(WS-TASV_L6W3.5H5_4341x10508x6)
+Add component (AddParameter): Name = "Actuator Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/434111050826.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Stainless Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "30000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "434111050826"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature max."; Value = "85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature min."; Value = "-40C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operation Force"; Value = "260g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Washable"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.5mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Member To Class: ClassName=esp8266 Member=Component SW1 434111050826
