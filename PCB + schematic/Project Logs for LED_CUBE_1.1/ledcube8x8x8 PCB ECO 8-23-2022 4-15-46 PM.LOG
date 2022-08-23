@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=L1 Old Footprint=INDUCTOR 12.5x12.5 New Footprint=WE-PD2_5848
+Change Component Comment : Designator=L1 Old Comment=Inductor New Comment=100µH, 0.57A
+Change component parameters: Designator = "L1" ("L1"); Footprint = "INDUCTOR 12.5x12.5"; UniqueID = "\BDEILGVK" ("\BDEILGVK")
+Change component parameters (AddParameter): Name = "Case/Size Code"; Value = "5848"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Unshielded Power Inductors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/74477420?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/74477420?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance"; Value = "0.51O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance Max"; Value = "0.65O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "100µH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "5.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "74477420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WE-PD2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "0.57A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Saturation Current"; Value = "0.68A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Self Resonant Frequency"; Value = "7.5MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "5.2mm"; VariantName = "[No Variations]"
+Added Room: Name=esp8266

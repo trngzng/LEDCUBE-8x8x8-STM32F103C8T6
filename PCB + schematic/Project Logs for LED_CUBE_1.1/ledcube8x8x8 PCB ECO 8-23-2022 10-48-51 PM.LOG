@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=LATCH Pin=U10-33
+Added Pin To Net: NetName=LATCH Pin=U10-31
