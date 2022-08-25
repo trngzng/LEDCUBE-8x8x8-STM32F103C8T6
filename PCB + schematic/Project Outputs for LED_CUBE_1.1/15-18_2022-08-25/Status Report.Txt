@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [ledcube8x8x8.PcbDoc]
+   Generated File[ledcube8x8x8.GTO]
+   Generated File[ledcube8x8x8.GTP]
+   Generated File[ledcube8x8x8.GTS]
+   Generated File[ledcube8x8x8.GTL]
+   Generated File[ledcube8x8x8.GBL]
+   Generated File[ledcube8x8x8.GBS]
+   Generated File[ledcube8x8x8.GBP]
+   Generated File[ledcube8x8x8.GBO]
+   Generated File[ledcube8x8x8.GKO]
+   Generated File[ledcube8x8x8.RUL]
+   Generated File[ledcube8x8x8.EXTREP]
+   Generated File[ledcube8x8x8.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 3:18:55 PM On 8/25/2022

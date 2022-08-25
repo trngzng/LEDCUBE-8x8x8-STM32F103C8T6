@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ledcube8x8x8.PcbDoc   8/25/2022  3:18:54 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ledcube8x8x8-RoundHoles.TXT
+ASCII SlotHoles File : ledcube8x8x8-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.399mm)                                           Round             431       PTH        76.49inch (1942.95mm)
+T2      30mil (0.762mm)                                           Round             40        PTH        5.80inch (147.32mm)
+T3      32mil (0.8mm)                                             Round             14        PTH        4.35inch (110.51mm)
+T4      39mil (1.001mm)                                           Round             76        PTH        15.43inch (391.82mm)
+T5      45mil (1.143mm)                                           Round             2         PTH        0.14inch (3.50mm)
+T6      50mil (1.27mm)                                            Slot              3         PTH        1.20inch (30.41mm)
+T7      118mil (3mm)                                              Round             4         PTH        9.82inch (249.40mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              570
+
+Total Processing Time (hh:mm:ss) : 00:00:00
