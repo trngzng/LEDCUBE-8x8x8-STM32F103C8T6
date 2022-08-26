@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Data\Projects\LEDCUBE-8x8x8-STM32F103C8T6\PCB + schematic\ledcube8x8x8.PcbDoc
-Date     : 8/25/2022
-Time     : 11:35:27 AM
+Date     : 8/26/2022
+Time     : 8:47:15 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -15,7 +15,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=40mil) (Preferred=20mil) (All)
+Processing Rule : Width Constraint (Min=10mil) (Max=70mil) (Preferred=20mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
@@ -32,10 +32,7 @@ Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (3.315mil < 10mil) Between Pad R76-1(2942.48mil,-2524.559mil) on Bottom Layer And Via (2943.461mil,-2481.748mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [3.315mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.831mil < 10mil) Between Pad U11-9(3080.646mil,-2815.85mil) on Top Layer And Via (3021.591mil,-2855.22mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.831mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (6.14mil < 10mil) Between Pad U3-14(3274.486mil,-345.495mil) on Top Layer And Via (3212.122mil,-344.878mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [6.14mil]
-Rule Violations :3
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
@@ -44,6 +41,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 7
+Violations Detected : 4
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
