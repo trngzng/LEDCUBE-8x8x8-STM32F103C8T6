@@ -1,0 +1,2 @@
+../Led_cube_effect/random_rain_cube.c:11:6:RandomRainCube_Handle	16	static
+../Led_cube_effect/random_rain_cube.c:33:6:RandomRainCube_Set_State	8	static

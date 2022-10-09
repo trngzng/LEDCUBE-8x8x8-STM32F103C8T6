@@ -1,0 +1,5 @@
+../Timer/timer.c:14:12:timer_register_callback	32	static
+../Timer/timer.c:32:6:timer_unregister_callback	16	static
+../Timer/timer.c:36:10:milis	4	static
+../Timer/timer.c:40:13:timer_callback	16	static
+../Timer/timer.c:58:6:HAL_TIM_PeriodElapsedCallback	16	static

@@ -1,0 +1,10 @@
+../Led_cube_effect/spiral_cube.c:17:6:SpiralCube_Handle	8	static
+../Led_cube_effect/spiral_cube.c:63:6:RollBiggestCounterClockWise_Handle	8	static
+../Led_cube_effect/spiral_cube.c:115:6:RollBiggerCounterClockWise_Handle	8	static
+../Led_cube_effect/spiral_cube.c:167:6:RollMediumCounterClockWise_Handle	8	static
+../Led_cube_effect/spiral_cube.c:219:6:RollSmallCounterClockWise_Handle	8	static
+../Led_cube_effect/spiral_cube.c:264:6:RollBiggestClockWise_Handle	8	static
+../Led_cube_effect/spiral_cube.c:315:6:RollBiggerClockWise_Handle	8	static
+../Led_cube_effect/spiral_cube.c:366:6:RollMediumClockWise_Handle	8	static
+../Led_cube_effect/spiral_cube.c:417:6:RollSmallClockWise_Handle	8	static
+../Led_cube_effect/spiral_cube.c:463:6:SpiralCube_Set_State	8	static
