@@ -53,6 +53,9 @@ default.size.stdout \
 OBJDUMP_LIST += \
 ledcube8.list \
 
+OBJCOPY_HEX += \
+ledcube8.hex \
+
 
 # All Target
 all: main-build
@@ -61,8 +64,8 @@ all: main-build
 main-build: ledcube8.elf secondary-outputs
 
 # Tool invocations
-ledcube8.elf ledcube8.map: $(OBJS) $(USER_OBJS) D:\LED\ CUBE\ 8x8x8\LED\ CUBE\ 8x8x8\ STM32F103C8T6\Code\STM32F103C8TX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "ledcube8.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m3 -T"D:\LED CUBE 8x8x8\LED CUBE 8x8x8 STM32F103C8T6\Code\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="ledcube8.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+ledcube8.elf ledcube8.map: $(OBJS) $(USER_OBJS) C:\Data\Projects\LEDCUBE-8x8x8-STM32F103C8T6\Code\STM32F103C8TX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "ledcube8.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m3 -T"C:\Data\Projects\LEDCUBE-8x8x8-STM32F103C8T6\Code\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="ledcube8.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
@@ -76,12 +79,17 @@ ledcube8.list: $(EXECUTABLES) makefile objects.list $(OPTIONAL_TOOL_DEPS)
 	@echo 'Finished building: $@'
 	@echo ' '
 
+ledcube8.hex: $(EXECUTABLES) makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-objcopy  -O ihex $(EXECUTABLES) "ledcube8.hex"
+	@echo 'Finished building: $@'
+	@echo ' '
+
 # Other Targets
 clean:
-	-$(RM) default.size.stdout ledcube8.elf ledcube8.list ledcube8.map
+	-$(RM) default.size.stdout ledcube8.elf ledcube8.hex ledcube8.list ledcube8.map
 	-@echo ' '
 
-secondary-outputs: $(SIZE_OUTPUT) $(OBJDUMP_LIST)
+secondary-outputs: $(SIZE_OUTPUT) $(OBJDUMP_LIST) $(OBJCOPY_HEX)
 
 fail-specified-linker-script-missing:
 	@echo 'Error: Cannot find the specified linker script. Check the linker settings in the build configuration.'

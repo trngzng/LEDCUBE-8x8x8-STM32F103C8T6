@@ -1,6 +1,3 @@
-#include <ESP8266WiFi.h>
-#include <ESP8266WebServer.h>
-#include <BlynkSimpleEsp8266.h>
 #define  BLYNK_PRINT Serial
 
 
@@ -17,8 +14,6 @@ enum
   SPIRAL_CUBE,
   WAVE_EFFECT,
   SIDE_WAVES_EFFECT,
-  FIREWORKS_EFFECT,
-  TOTAL_EFFECTS,
 };
 
 uint8_t current = WAVE_EFFECT;
@@ -30,6 +25,8 @@ void setup()
 
 void loop()
 {
+  if (current == SIDE_WAVES_EFFECT) current = SWEEP_ALL_LEDS;
+  else current++;
   Serial.write(current);
-  delay(5000);
+  delay(60000);
 }

@@ -27,22 +27,22 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h \
- D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/led_cube_handle.h \
- D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/sidewaves.h \
- D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/led_cube_handle.h \
- D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/wave.h \
- D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/spiral_cube.h \
- D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/display_led.h \
- D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/random_rain_cube.h \
- D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/count_down_cube.h \
- D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/transmit_data.h \
- D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/around_edge_cube.h \
- D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/diagonal_cube.h \
- D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/grow_shrink_cube.h \
- D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/plane_cube.h \
- D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/light_cube.h \
- D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/clear_cube.h \
- D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/button.h
+ C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/led_cube_handle.h \
+ C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/sidewaves.h \
+ C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/led_cube_handle.h \
+ C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/wave.h \
+ C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/spiral_cube.h \
+ C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/display_led.h \
+ C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/random_rain_cube.h \
+ C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/count_down_cube.h \
+ C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/transmit_data.h \
+ C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/around_edge_cube.h \
+ C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/diagonal_cube.h \
+ C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/grow_shrink_cube.h \
+ C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/plane_cube.h \
+ C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/light_cube.h \
+ C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/clear_cube.h \
+ C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/button.h
 ../Core/Inc/main.h:
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h:
 ../Core/Inc/stm32f1xx_hal_conf.h:
@@ -72,19 +72,19 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h:
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h:
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h:
-D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/led_cube_handle.h:
-D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/sidewaves.h:
-D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/led_cube_handle.h:
-D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/wave.h:
-D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/spiral_cube.h:
-D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/display_led.h:
-D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/random_rain_cube.h:
-D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/count_down_cube.h:
-D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/transmit_data.h:
-D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/around_edge_cube.h:
-D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/diagonal_cube.h:
-D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/grow_shrink_cube.h:
-D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/plane_cube.h:
-D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/light_cube.h:
-D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/clear_cube.h:
-D:/LED\ CUBE\ 8x8x8/LED\ CUBE\ 8x8x8\ STM32F103C8T6/Code/Libs/button.h:
+C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/led_cube_handle.h:
+C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/sidewaves.h:
+C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/led_cube_handle.h:
+C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/wave.h:
+C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/spiral_cube.h:
+C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/display_led.h:
+C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/random_rain_cube.h:
+C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/count_down_cube.h:
+C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/transmit_data.h:
+C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/around_edge_cube.h:
+C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/diagonal_cube.h:
+C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/grow_shrink_cube.h:
+C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/plane_cube.h:
+C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/light_cube.h:
+C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/clear_cube.h:
+C:/Data/Projects/LEDCUBE-8x8x8-STM32F103C8T6/Code/Libs/button.h:
